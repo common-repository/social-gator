@@ -1,0 +1,9 @@
+ul#social-gator { list-style-type: none !important; margin: 0 !important; }
+ul#social-gator li { margin: 10px 0 10px 0 !important; list-style-type: none !important; padding-left: 25px !important; border: 0px !important; min-height: 22px; }
+ul#social-gator li a { padding: 0px !important }
+ul#social-gator li.s-twitter { background: url(/wp-content/plugins/social-gator/images/twitter_icon.png) no-repeat 0 2px !important; }
+ul#social-gator li.s-facebook { background: url(/wp-content/plugins/social-gator/images/facebook_icon.png) no-repeat 0 2px !important; }
+ul#social-gator li.s-youtube { background: url(/wp-content/plugins/social-gator/images/youtube_icon.png) no-repeat 0 2px !important; }
+ul#social-gator li.s-picasa { background: url(/wp-content/plugins/social-gator/images/picasa_icon.png) no-repeat 0 2px !important; }
+ul#social-gator li.s-flickr { background: url(/wp-content/plugins/social-gator/images/flickr_icon.png) no-repeat 0 2px !important; }
+ul#social-gator li p { padding: 0 !important; margin: 0 !important;}
